@@ -16,4 +16,4 @@
   - [사용 가이드](https://github.com/K-PaaS/application-platform-guide/blob/master/user_guide/README.md)  
 
 + 사용자 어플리케이션 CP 전환
-  + [전환가이드](https://github.com/K-PaaS/ap2cp-guide/blob/master/README.md)  
+  + [전환 가이드](https://github.com/K-PaaS/ap2cp-guide/blob/master/README.md)  
