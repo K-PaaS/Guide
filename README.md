@@ -8,7 +8,8 @@
 
 + K-PaaS Sidecar  
   - [아키텍처](https://github.com/K-PaaS/sidecar-guide/blob/master/architecture/sidecar.md)  
-  - [설치 가이드](https://github.com/K-PaaS/sidecar-guide/tree/master/install/README.md)  
+  - [설치 가이드](https://github.com/K-PaaS/sidecar-guide/tree/master/install/README.md)
+  - [사용 가이드](https://github.com/K-PaaS/sidecar-guide/tree/master/user_guide/README.md)  
 
 - Application Platform (AP)  
   - [아키텍처](https://github.com/K-PaaS/application-platform-guide/blob/master/architecture/README.md)  
